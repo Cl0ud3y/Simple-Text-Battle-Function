@@ -1,4 +1,4 @@
-
+#this code is free and can be used by anyone
 
 from random import randint
 
